@@ -1,6 +1,6 @@
-![](./banner.png)
+![](./Readme.png)
 
-# Sonu Paikrao 👨‍🍳
+# Sonu Paikrao 😎
 
 
 
